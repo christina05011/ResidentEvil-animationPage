@@ -1,0 +1,23 @@
+{
+  "name": "residentevil-animationpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christina05011/ResidentEvil-animationPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christina05011/ResidentEvil-animationPage/issues"
+  },
+  "homepage": "https://github.com/christina05011/ResidentEvil-animationPage#readme",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
