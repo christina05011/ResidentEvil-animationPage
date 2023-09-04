@@ -1,6 +1,6 @@
 # Project Resident Evil Animation Page
 
-This a simple animation page from the Platzi course "Curso Práctico de Maquetación y Animaciones con CSS".
+This is a simple animation page from the Platzi course "Curso Práctico de Maquetación y Animaciones con CSS".
 
 You can see the landing page here https://christina05011.github.io/ResidentEvil-animationPage/ .
 
