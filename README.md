@@ -2,6 +2,8 @@
 
 This is a simple animation page from the Platzi course "Curso Práctico de Maquetación y Animaciones con CSS".
 
-You can see the landing page here https://christina05011.github.io/ResidentEvil-animationPage/ .
+You can see the animation page inspired of Resident Evil here https://christina05011.github.io/ResidentEvil-animationPage/ .
 
-![residentEvil](https://github.com/christina05011/ResidentEvil-animationPage/assets/42581109/40b261ae-6931-4d0c-99ca-32de80d6812a)
+
+https://github.com/christina05011/ResidentEvil-animationPage/assets/42581109/2a9d5200-4d61-447a-8882-de17ea301b7e
+
